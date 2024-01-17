@@ -1,0 +1,2 @@
+pip install qrcode[pil]
+sudo apt-get install python3-tk
